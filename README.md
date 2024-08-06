@@ -2,6 +2,8 @@
 AIM: 
 To study and implement C++ bitwise operators.
 
+SOFTWARE: Visual Studio Code
+
 THEORY:
 Bitwise AND (&):
 Compares each bit of its operands. The result is 1 if both corresponding bits are 1; otherwise, it is 0.
